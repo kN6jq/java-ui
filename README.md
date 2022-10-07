@@ -1,5 +1,6 @@
 ## 口令管理工具
 
+![口令管理工具](https://socialify.git.ci/kN6jq/java-ui/image?description=1&forks=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Light)
 
 1. 本人为了学习java的gui开发,看了一天的视频和教程,自己扣了一个
 2. 本地搭建的话把数据库配置一下,sql对接好就可以跑起来了
